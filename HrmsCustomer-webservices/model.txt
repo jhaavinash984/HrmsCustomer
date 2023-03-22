@@ -1,0 +1,43 @@
+{
+  "contactNumber": "9019128756",
+  "departmentId": null,
+  "departmentName": null,
+  "dob": "07/01/1994",
+  "email": "shivanikumari@gmail.com",
+  "firstName": "Shivani",
+  "fullName": "Shivani Kumari",
+  "gender": "Female",
+  "groupManagerId": null,
+  "groupManagerName": null,
+  "id": null,
+  "isActive": 1,
+  "lastName": "Kumari",
+  "organisationRoleId": null,
+  "organisationRoleName": null,
+  "organisationSubRoleId": null,
+  "organisationSubRoleName": null,
+  "personalInformation": {
+    "address": "vill.+p.o-Andauli,Block-Alinagar,Dist.-Darbhanga",
+    "adharcardNumber": "917213405678",
+    "currentAddress": "vill.+p.o-Andauli,Block-Alinagar,Dist.-Darbhanga",
+    "fatherName": "Jaykrishna Roy",
+    "motherName": "Rezi Devi",
+    "panNumber": "ATXPJ8665J",
+    "passportNumber": null,
+    "permanentAddress": "vill.+p.o-Andauli,Block-Alinagar,Dist.-Darbhanga"
+  },
+  "professionalInformationCollection": [
+    {
+      "companyName": "Cognizant",
+      "endDate": "07/01/2022",
+      "lastDesignation": "Senior Software Engineer",
+      "startDate": "07/01/2021"
+    }
+  ],
+  "projectManagerId": "string",
+  "projectManagerName": null,
+  "roleTypeId": null,
+  "systemRoleId": null,
+  "timezone": null,
+  "username": "shivani"
+}

@@ -1,0 +1,83 @@
+{
+  "contactNumber": "9019128756",
+  "departmentId": null ,
+  "departmentName": null,
+  "dob": "2000-08-16T15:23:01Z",
+  "email": "avinafsdf",
+  "firstName": "sdfdsf",
+  "fullName": null,
+  "gender": "M",
+  "groupManagerId": null,
+  "groupManagerName": null,
+  "id": null,
+  "isActive": 0,
+  "lastName": "dfgsdg",
+  "organisationRoleId": null,
+  "organisationRoleName": null,
+  "organisationSubRoleId": null,
+  "organisationSubRoleName": null,
+  "personalInformation": {
+    "address": "vjgjgj",
+    "adharcardNumber": "hgjfjh",
+    "currentAddress": "fgjdj",
+    "fatherName": "ghjfjh",
+    "motherName": "jhjkf",
+    "panNumber": "6768678",
+    "passportNumber": "6578658",
+    "permanentAddress": "hjkgjk"
+  },
+  "professionalInformationCollection": [
+    {
+      "companyName": "kjkkjhgjhf",
+      "endDate": "2016-08-16T15:23:01Z",
+      "id": null,
+      "lastDesignation": "ghjfjfg",
+      "startDate": "2016-08-16T15:23:01Z"
+    }
+  ],
+  "projectManagerId": null,
+  "projectManagerName": null,
+  "roleTypeId": null,
+  "systemRoleId": null,
+  "timezone": null,
+  "username": "fghdhghg"
+}
+
+
+{
+  "address": "sdsdg",
+  "contactPerson": "rydyy",
+  "email": "cgfcmmt",
+  "establishmentDate": "2018-06-03",
+  "groupDescription": "string",
+  "groupId": null,
+  "groupName": "string",
+  "mobileNumber": "string",
+  "pageRequestModel": {
+    "direction": "string",
+    "maxRecordsFetchPerPage": 0,
+    "pageNumber": 0,
+    "searchText": "string",
+    "sortingAttribute": "string"
+  }
+}
+
+{
+    "groupId": "79eViYa0f9UsPbP7dBaOuX4=",
+    "groupName": "Abc International",
+    "groupDescription": "string",
+    "contactPerson": "rydyy",
+    "mobileNumber": "string",
+    "email": "cgfcmmt",
+    "address": "sdsdg",
+    "establishmentDate": "2018-06-03",
+    "pageRequestModel": {
+      "pageNumber": 0,
+      "maxRecordsFetchPerPage": 0,
+      "sortingAttribute": "string",
+      "searchText": "string",
+      "direction": "string"
+    }
+  }
+
+

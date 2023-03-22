@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HrmsCustomer-DTO" />
+        <module name="HrmsCustomer-security" />
+        <module name="HrmsCustomer-DAO" />
+        <module name="HrmsCustomer-webservices" />
+        <module name="HrmsCustomer-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="HrmsCustomer-DAO" options="-parameters" />
+      <module name="HrmsCustomer-DTO" options="-parameters" />
+      <module name="HrmsCustomer-common" options="-parameters" />
+      <module name="HrmsCustomer-security" options="-parameters" />
+      <module name="HrmsCustomer-webservices" options="-parameters" />
+    </option>
+  </component>
+</project>
